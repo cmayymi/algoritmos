@@ -1,0 +1,1 @@
+// construa uma funcao para calcular o perimetro de um poligono regular de n lados de comprimento b
